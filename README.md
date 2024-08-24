@@ -6,7 +6,7 @@ This repo contains supporting information for the Master Thesis rebuttal.
 
 | Backbone   | Method                  | BEN 10% LP | DFC2020 LP | DFC2020 FT | MADOS FT |
 |------------|-------------------------|------------|------------|------------|----------|
-| ViT-S      | MAE                     | 77.5       | 35.63      |       -     |    -      |
+| ViT-S      | MAE [1]                    | 77.5       | 35.63      |       -     |    -      |
 | ViT-S      | DINO                    | 81.7       | 32.34      |      -      |    -      |
 | ViT-B      | I-JEPA                  |   -         | 36.72      |     -       |     -     |
 | ViT-B      | SatMAE                  |   -         | 45.53      |     -       |      -    |
