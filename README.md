@@ -1,7 +1,7 @@
 # Thesis rebuttal - Supporting information
 This repo contains supporting information for the Master Thesis rebuttal.
 
-## 1) Comparison of proposed method against existing ones
+## 1. Comparison of proposed method against existing ones
 
 
 | Backbone   | Method                  | BEN 10% LP | DFC2020 LP | DFC2020 FT | MADOS FT |
