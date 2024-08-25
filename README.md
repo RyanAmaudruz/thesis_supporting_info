@@ -23,7 +23,7 @@ This repo contains supporting information for the Master Thesis rebuttal.
 To inspect the quality of the spatial representations obtained with an image-level SSL algorithm, we apply the k-means algorithm with k=6 to the spatial representations of a satellite image.
 The original image is shown on the left, and the right image has the patches belonging to different clusters coloured differently.
 
-
+![Patch emb viz](patch_embedding_viz.png)
 
 Visually, we show that DINO, an image-level SSL algoritm, provides good spatial representations even though these are not directly supervised.
 
