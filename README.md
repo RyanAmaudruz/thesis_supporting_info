@@ -1,7 +1,7 @@
 # Thesis rebuttal - Supporting information
 This repo contains supporting information for the Master Thesis rebuttal.
 
-## Comparison of proposed method against existing ones
+## 1) Comparison of proposed method against existing ones
 
 
 | Backbone   | Method                  | BEN 10% LP | DFC2020 LP | DFC2020 FT | MADOS FT |
@@ -19,7 +19,7 @@ This repo contains supporting information for the Master Thesis rebuttal.
 | -         | MarineNeXt   [9]          |       -     |     -       |      -      | 64.3     |
 | ViT-S      | Leo New Queue + DINO loss | 82.2 | **50.31**  | **57.91**  | **76.8** |
 
-
+### References
 
 [1] Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Doll ´ar, and Ross Girshick.
 Masked autoencoders are scalable vision learners, 2021.
