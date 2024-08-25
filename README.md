@@ -25,7 +25,7 @@ The original image is shown on the left, and the right image has the patches bel
 
 ![Patch emb viz](patch_embedding_viz.png)
 
-Visually, we show that DINO, an image-level SSL algoritm, provides good spatial representations even though these are not directly supervised.
+We visually show that DINO, an image-level SSL algoritm, provides good spatial representations even though these are not directly supervised by the algorithm.
 
 
 
