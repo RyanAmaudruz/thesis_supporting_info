@@ -19,6 +19,16 @@ This repo contains supporting information for the Master Thesis rebuttal.
 | -         | MarineNeXt   [9]          |       -     |     -       |      -      | 64.3     |
 | ViT-S      | Leo New Queue + DINO loss | 82.2 | **50.31**  | **57.91**  | **76.8** |
 
+## 2. Applying the k-means algorithm to the spatial representations obtained with a ViT backbone pretrained with DINO, an image-level SSL algorithm
+To inspect the quality of the spatial representations obtained with an image-level SSL algorithm, we apply the k-means algorithm with k=6 to the spatial representations of a satellite image.
+The original image is shown on the left, and the right image has the patches belonging to different clusters coloured differently.
+
+
+
+Visually, we show that DINO, an image-level SSL algoritm, provides good spatial representations even though these are not directly supervised.
+
+
+
 ### References
 
 [1] Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollar, and Ross Girshick. Masked autoencoders are scalable vision learners, 2021.
