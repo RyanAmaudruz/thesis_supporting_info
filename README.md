@@ -21,7 +21,7 @@ This repo contains supporting information for the Master Thesis rebuttal.
 
 ### References
 
-[1] Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Doll ´ar, and Ross Girshick.
+[1] Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollar, and Ross Girshick.
 Masked autoencoders are scalable vision learners, 2021.
 
 [2] Yi Wang, Nassim Ait Ali Braham, Zhitong Xiong, Chenying Liu, Conrad M Albrecht,
